@@ -1,9 +1,9 @@
-import praw
+timport praw
 import pandas as pd
 
 # Replace with your own Reddit API credentials
 client_id = 'SUCUWf9SRoqx-yN4gJ3WNg'
-client_secret = 'qX0NeBesYTfmhOj1IUolpWyACaMlxg'
+client_secret = 'deleted'
 user_agent = '2526564987854'
 
 # Create a Reddit instance
